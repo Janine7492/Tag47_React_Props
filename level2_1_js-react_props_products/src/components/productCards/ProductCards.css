@@ -1,0 +1,27 @@
+.productCard {
+    width: 100%;
+    text-align: center;
+    box-shadow: 2px 2px 5px darkgrey;
+    padding-bottom: 2rem;
+    background-color: whitesmoke;
+}
+
+.productCard img {
+    width: 100%;
+}
+
+.productCard h2 {
+    font-size: 1.5rem;
+}
+
+.productCard button {
+    background-color: lightcoral;
+    padding: 1rem 3rem;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: whitesmoke;
+    margin-top: 2rem;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 2px 2px 5px black;
+}

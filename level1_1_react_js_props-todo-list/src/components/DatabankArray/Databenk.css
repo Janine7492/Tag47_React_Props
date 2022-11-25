@@ -1,0 +1,10 @@
+h1 {
+    padding-left: 2rem;
+    font-size: 3rem;
+}
+
+.list {
+    padding-left: 5rem;
+    font-weight: bold;
+    line-height: 1;
+}

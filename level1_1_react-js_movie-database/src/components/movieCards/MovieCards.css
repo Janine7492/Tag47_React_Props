@@ -1,0 +1,20 @@
+.movieCard {
+    background-color: rgb(28, 39, 39);
+    color: whitesmoke;
+    box-shadow: 2px 2px 5px black;
+    text-align: center;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.regularText {
+    font-weight: 600;
+    width: 80%;
+    margin: 1rem auto;
+}
+
+.smallText {
+    font-size: 0.8rem;
+}

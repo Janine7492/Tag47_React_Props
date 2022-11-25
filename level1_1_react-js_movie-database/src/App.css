@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: repeat(5, 240px);
+  gap: 10px;
+  width: 90%;
+  margin: 5rem auto;
+}
